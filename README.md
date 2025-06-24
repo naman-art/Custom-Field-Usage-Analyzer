@@ -31,13 +31,13 @@ It helps you optimize org cleanliness, improve data model hygiene, and support d
 ## 📸 Screenshots
 
 ### 🎯 Analyze Button  
-![Analyze Button](/screenshots/ss1.png)  
+![Analyze Button](/ss1.png)  
 > Helps analyze field usage so less-used fields can be flagged for removal.
 
 ---
 
 ### ⚙️ Auto Populate  
-![Auto Populate](/screenshots/ss2.png)  
+![Auto Populate](/ss2.png)  
 > Auto-populates all custom fields for the object mentioned in the **Object API Name** field.
 
 ---
