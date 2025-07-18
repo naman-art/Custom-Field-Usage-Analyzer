@@ -93,7 +93,5 @@ Click the link below to install in your Salesforce org:
 
 ---
 
-## 🧾 License
 
-MIT License (or your preferred license)
 
